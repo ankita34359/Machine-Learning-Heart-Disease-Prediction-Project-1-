@@ -47,3 +47,8 @@ Developed a Streamlit app (heart.py) that allows users to predict their risk of 
 𝟴)𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗼𝗻 𝗚𝗶𝘁𝗛𝘂𝗯:
 
 Uploaded the Jupyter notebook, trained model, Streamlit app, and dataset to GitHub for public access.
+
+
+𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻
+
+This project demonstrates a comprehensive approach to predicting heart disease using machine learning. The Streamlit app provides an easy-to-use interface for users to predict their heart disease risk based on input features.

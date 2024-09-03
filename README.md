@@ -1,6 +1,7 @@
 𝐇𝐞𝐚𝐫𝐭 𝐃𝐢𝐬𝐞𝐚𝐬𝐞 𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐞𝐥
 
 
+
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
 
 This project aims to predict the 10-year risk of coronary heart disease (CHD) using a machine learning approach. The model is trained on a dataset containing various demographic, behavioral, and medical features. The goal is to accurately classify patients as either at risk or not at risk for CHD within the next 10 years.

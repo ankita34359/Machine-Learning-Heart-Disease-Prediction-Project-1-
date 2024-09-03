@@ -51,4 +51,4 @@ Uploaded the Jupyter notebook, trained model, Streamlit app, and dataset to GitH
 
 𝗖𝗼𝗻𝗰𝗹𝘂𝘀𝗶𝗼𝗻
 
-This project demonstrates a comprehensive approach to predicting heart disease using machine learning. The Streamlit app provides an easy-to-use interface for users to predict their heart disease risk based on input features.
+This project demonstrates a comprehensive approach to predicting heart disease using machine learning. The Streamlit app provides an easy-to-use interface for users to predict their heart disease risk based on input features. And creates some plots or graphs like 𝗽𝗶𝗲 𝗰𝗵𝗮𝗿𝘁, 𝗯𝗮𝗿 𝗽𝗹𝗼𝘁 𝗮𝗻𝗱 𝗯𝗼𝘅 𝗽𝗹𝗼𝘁.

@@ -8,10 +8,10 @@ This project aims to predict the 10-year risk of coronary heart disease (CHD) us
 
 ## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
 
-• - Heart Disease Model.ipynb: Jupyter notebook containing the full data exploration, preprocessing, model training, evaluation, and selection process.
-• - heart.py: Streamlit web application script that allows users to input data and predict the risk of heart disease based on the trained model.
-• - heart_disease_data.csv: The dataset used for training and evaluating the models.
-• - best_model.pkl: The saved machine learning model (using joblib) that provides predictions in the Streamlit app.
+ - Heart Disease Model.ipynb: Jupyter notebook containing the full data exploration, preprocessing, model training, evaluation, and selection process.
+ - heart.py: Streamlit web application script that allows users to input data and predict the risk of heart disease based on the trained model.
+ - heart_disease_data.csv: The dataset used for training and evaluating the models.
+ - best_model.pkl: The saved machine learning model (using joblib) that provides predictions in the Streamlit app.
 
 
 ## 𝗧𝗮𝘀𝗸𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗱
